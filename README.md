@@ -2,7 +2,7 @@
   <h1>fitness_forAll</h1></center>
   <br>
 
-  based security.
+
 
 
 <p></p>
@@ -10,13 +10,13 @@
 
 <p><h3>User Management</h3>
 
-User registration 
-Activity Tracking
-Log fitness activities (type, duration, calories burned)
-Fetch activities by user
-JSON-based additional metrics support
-Personalized Recommendations
-Generate recommendations based on user activity
+User registration, 
+Activity Tracking,
+Log fitness activities (type, duration, calories burned),
+Fetch activities by user,
+JSON-based additional metrics support,
+Personalized Recommendations,
+Generate recommendations based on user activity,
 Retrieve recommendations by user or activity</p>
 
 
@@ -31,8 +31,8 @@ Retrieve recommendations by user or activity</p>
 <p>
 <h3>Database Integration</h3>
 
-MySQL with Spring Data JPA & Hibernate
-UUID-based entity IDs
+MySQL with Spring Data JPA & Hibernate,
+UUID-based entity IDs,
 Proper entity relationships</p></p>
 
 ![image alt](https://github.com/Gupta04Roshan/fitness_forAll/blob/bfebc0b8bc1a2210c6d49d3d752e483cca544d46/ui.png?raw=true)
