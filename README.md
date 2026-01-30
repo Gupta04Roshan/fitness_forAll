@@ -10,3 +10,4 @@
  
 
  ![image alt](https://raw.githubusercontent.com/Gupta04Roshan/fitness_forAll/97e95e4c0b229e842b1508151ca06ab507dac3ac/Screenshot%20(14).png)
+  ![image alt](https://raw.githubusercontent.com/Gupta04Roshan/fitness_forAll/c2289d80b5aba5973cf88bbe9a4cca68011cb500/Screenshot%20(16).png)
